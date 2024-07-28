@@ -1,4 +1,4 @@
-package com.techwithbob.tictactoe;
+package com.example.tictactoe;
 
 import android.content.Context;
 
